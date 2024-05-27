@@ -1,7 +1,7 @@
 {
-  "name": "object-oriented-programming",
-  "version": "1.0.0",
-  "description": "ali11-object-oriented-programming",
+  "name": "ali11-object-oriented-programming",
+  "version": "1.0.4",
+  "description": "Object-Oriented Programming",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",

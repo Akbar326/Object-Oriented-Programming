@@ -1,3 +1,5 @@
+#! /usr/bin/env
+
 import inquirer from "inquirer";
 import chalk from "chalk";
 
