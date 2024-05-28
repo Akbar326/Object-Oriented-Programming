@@ -1,7 +1,7 @@
 {
   "name": "ali11-object-oriented-programming",
-  "version": "1.0.4",
-  "description": "Object-Oriented Programming",
+  "version": "1.0.5",
+  "description": "A simple interactive CLI program demonstrating OOP principles in TypeScript.",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
